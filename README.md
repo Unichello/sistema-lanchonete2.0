@@ -1,7 +1,4 @@
-LINGUAGEM DE PROGRAMAÇÃO I - UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE
-Docente: Janiheryson Felipe De Oliveira Martins
-Discente: Pedro Henrique Sousa Barichello e Matheus Lameque Correia de Oliveira Horácio
-Projeto 3 - Sistema gerenciador de pedidos de uma lanchonete
+Sistema gerenciador de pedidos de uma lanchonete
 
 Sobre o projeto: Foi desenvolvido um sistema de pedidos de lanches automático, onde a lanchonete realiza a venda de sanduíches e sucos. 
 
