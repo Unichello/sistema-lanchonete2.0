@@ -17,4 +17,3 @@ Perfil do gerente: É possível fazer o login usando a senha já definida(senha:
 Os produtos são salvos e carregador em um arquivo de texto(txt), eles são respectivamente: "sanduiches.txt" e "sucos.txt", permitindo que os dados se mantenham salvos e atualizados mesmo após o programa sendo encerrado. 
 
 OBS: caso ocorra algum bug no carregamento dos arquivos .txt, no momento que você adiciona produtos(sanduíches ou sucos) através do perfil do gerente, seus respectivos arquivos são criados automaticamente. Até o momento, não ocorreu esse problema, mas caso ocorra, esse caminho contorna o erro. 
-OBS: Para visualizar documentação Doxygen, segue em zipado html do Doxygen. 
